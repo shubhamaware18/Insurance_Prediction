@@ -1,1 +1,3 @@
-print('This i a outlier removing code file')
+
+print('This is a file that contain code to remove outliers')
+
